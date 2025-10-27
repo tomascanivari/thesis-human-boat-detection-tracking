@@ -1,0 +1,5 @@
+Class,Precision,Recall,F1,Accuracy
+Coastline,1.000000,0.999926,0.999963,
+OpenWater,0.999881,1.000000,0.999941,
+Macro Avg,0.999941,0.999963,0.999952,
+Accuracy,,,,0.999954

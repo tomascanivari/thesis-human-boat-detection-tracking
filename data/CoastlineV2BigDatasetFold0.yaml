@@ -1,0 +1,11 @@
+path:   ../datasets/CoastlineV2BigDataset # dataset root dir
+train:  folds/train_fold0.txt                  
+val:    folds/val_fold0.txt 
+test:   folds/test_fold0.txt                  
+
+# Classes
+nc: 3
+names:
+  0: ignored
+  1: swimmer
+  2: boat

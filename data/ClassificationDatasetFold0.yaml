@@ -1,0 +1,4 @@
+path: datasets/ClassificationDataset
+train: folds/train_fold0.txt
+val: folds/val_fold0.txt
+test: folds/test_fold0.txt

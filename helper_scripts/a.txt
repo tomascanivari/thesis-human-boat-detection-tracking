@@ -1,0 +1,5 @@
+parametros do tracking
+
+usar gt como preds e escolher os melhores parametros do tracking
+
+em cada fold 3 parametros

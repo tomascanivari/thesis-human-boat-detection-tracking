@@ -1,0 +1,12 @@
+matplotlib==3.10.7
+motmetrics==1.4.0
+numpy==1.26.4
+opencv-python==4.11.0.86
+pandas==2.3.3
+PyYAML==6.0.3
+scikit-learn==1.7.2
+torch==2.9.0
+torchvision==0.24.0
+tqdm==4.67.1
+ultralytics==8.3.221
+ultralytics-thop==2.0.17

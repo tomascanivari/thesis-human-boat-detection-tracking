@@ -1,5 +1,5 @@
 # thesis-human-boat-detection-tracking
-Repository for my Thesis. Contains configuration files, scripts and evaluation metrics. The datasets and models can be found at:
+Repository for my Thesis. Contains configuration files, scripts and evaluation metrics. The datasets, models and inference videos can be found at:
 
 - [Kaggle Profile](https://www.kaggle.com/tomascccluis):
   - [Datasets](https://www.kaggle.com/datasets/tomascccluis/thesis-human-boat-detection-tracking-datasets)
